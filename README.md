@@ -1,4 +1,4 @@
-# cof5e4ac0af4ceb77a4bc4eaa
+# HomeTown Solo Project
 
 Quick start:
 
